@@ -23,12 +23,27 @@ A primeira empresa a adotar a plataforma foi o escritório [LMR Advogados Associ
 
 🔗 Acesse a instância personalizada da LMR [aqui](https://lmradvogados.lmradvogados.com.br).
 
-### Caturas de tela
-<img src="/Screenshots/homepage.png" alt="Tela inicial" width=150px>
-<img src="/Screenshots/lista-indicacoes-aberta.png" alt="Lista de indicações aberta" width=150px>
-<img src="/Screenshots/modal-indicar-aberto.png" alt="Modal de indicação aberto" width=150px>
-<img src="/Screenshots/modal-resgatar-aberto.png" alt="Modal de resgate de prêmio aberto" width=150px>
-<img src="/Screenshots/modal-abater-aberto.png" alt="Modal de abate de parcelas aberto" width=150px>
+### Demonstração
+<img src="Screenshots/demo.gif" alt="Demonstração" width=250px>
+
+<details>
+<summary>📷 Capturas de tela</summary>
+
+#### Página inicial
+<img src="Screenshots/homepage.png" alt="Página inicial" width=250px>
+
+#### Lista de indicações aberta
+<img src="Screenshots/lista-indicacoes-aberta.png" alt="Lista de indicações aberta" width=250px>
+
+#### Modal de indicação aberto
+<img src="Screenshots/modal-indicar-aberto.png" alt="Modal de indicação aberto" width=250px>
+
+#### Modal de resgate de prêmio aberto
+<img src="Screenshots/modal-resgatar-aberto.png" alt="Modal de resgate de prêmio aberto" width=250px>
+
+#### Modal de abate de parcelas aberto
+<img src="Screenshots/modal-abater-aberto.png" alt="Modal de abate de parcelas aberto" width=250px>
+</details>
 
 ## Desenvolvimento
 ### Tecnologias utilizadas
