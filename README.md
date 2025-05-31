@@ -54,6 +54,8 @@ A primeira empresa a adotar a plataforma foi o escritório [LMR Advogados Associ
 ### Produção
 A aplicação está disponível no endereço [https://indicamais.azurewebsites.net/](https://indicamais.azurewebsites.net/).
 
+> ⚠️ Aviso: Por se tratar de uma aplicação multi-tenant, é necessário acessar a URL específica do tenant. O acesso direto à raiz pode resultar em uma página de erro indicando que o tenant não foi encontrado.
+
 ## Licença
 Este projeto é de propriedade privada e não está disponível para modificação ou distribuição.
 
